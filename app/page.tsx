@@ -18,7 +18,7 @@ export default async function IndexPage({
   //   .execute();
 
   return (
-    <main className="p-4 md:p-10 mx-auto max-w-7xl">
+    <main className="bg-sky-200 p-4 md:p-10 mx-auto max-w-7xl">
       <Title>Users</Title>
       <Text>
         A list of users retrieved from a MySQL database (PlanetScale).
